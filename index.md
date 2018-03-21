@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](D:\node\blog\1.jpg) and ![Image](src)
+[Link](D:\node\blog\1.jpg) and ![Image](1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
