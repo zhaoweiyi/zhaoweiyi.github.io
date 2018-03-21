@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](D:\node\blog\1.jpg) and ![Image](zhaoweiyi.github.io/63884041_p0.png)
+[Link](D:\node\blog\1.jpg) and ![Image](https://github.com/zhaoweiyi/zhaoweiyi.github.io/blob/master/63884041_p0.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
