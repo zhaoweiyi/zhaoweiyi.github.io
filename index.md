@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-我是谁我在那我要干什么
+我是谁我在哪我要干什么
 
 ### Markdown
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](D:\node\blog\1.jpg) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
